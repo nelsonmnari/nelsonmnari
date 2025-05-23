@@ -6,8 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **scalable applications using the MERN stack**
-- 🌱 I’m currently learning **Next.js, GraphQL & system design patterns**
-- 💬 Ask me about **MongoDB, Express.js, React, Node.js, TypeScript, and clean code**
+- 🌱 I’m currently learning **Next.js & system design patterns**
+- 💬 Ask me about **MongoDB,MySQL, Express.js, React, Node.js, TypeScript, and clean code**
 - ⚡ Fun fact: I enjoy **open-source collaboration**, tech blogging, and building side projects!
 - 📫 Reach me at: **mnarinelson10@gmail.com**
 
