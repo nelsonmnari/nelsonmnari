@@ -1,15 +1,4 @@
-<h1 align="center">Hi there, I'm Nelson Mnari 👋</h1>
-<h3 align="center">Full Stack MERN Developer | Passionate about building scalable web applications and seamless user experiences</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **scalable applications using the MERN stack**
-- 🌱 I’m currently learning **Next.js & system design patterns**
-- 💬 Ask me about **MongoDB,MySQL, Express.js, React, Node.js, TypeScript, and clean code**
-- ⚡ Fun fact: I enjoy **open-source collaboration**, tech blogging, and building side projects!
-- 📫 Reach me at: **mnarinelson10@gmail.com**
 
 <!--
 **nelsonmnari/nelsonmnari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +9,29 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...<h1 align="center">Hi 👋, I'm Nelson Mnari</h1>
+<h3 align="center">Full Stack MERN Developer¦ Passionate about building scalable web applications and seamless user experiences.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonmnari" alt="nelsonmnari" /></a> </p>
+
+- 🔭 I’m currently working on **scalable applications using MERN stack**
+
+- 👯 I’m looking to collaborate on **side projects**
+
+- 📫 How to reach me **mnarinelson10@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nelson-mnari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-mnari/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsonmnari&show_icons=true&locale=en" alt="nelsonmnari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonmnari&" alt="nelsonmnari" /></p>
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
