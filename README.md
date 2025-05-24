@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **scalable applications using MERN stack**
 
-- 👯 I’m looking to collaborate on **side projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **mnarinelson10@gmail.com**
 
